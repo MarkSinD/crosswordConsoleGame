@@ -1,0 +1,1 @@
+java.awt.SystemColor[i=12]
